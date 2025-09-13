@@ -35,13 +35,13 @@ Mrde: Mobile applications for venues (Android & iOS)
 Lmmlo: Community-driven marketplace platform
 
 📦 Open Source Contributions
-I believe in strengthening the developer community through open-source tools:
+I believe in contributing to the developer community. Here are some of my published npm packages:
 
-react-theme-system: Advanced theming solution for React applications
+react-theme-system
 
-react-meta-framework: Framework for optimized meta tag management
+react-meta-framework
 
-git-branch-env: Environment configuration based on Git branches
+git-branch-env
 
 🔭 Current Focus
 AI-Powered ERP System
