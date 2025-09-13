@@ -50,12 +50,6 @@ react-meta-framework
 
 git-branch-env
 
-📈 GitHub Stats
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dsalehammar%26show_icons%3Dtrue%26theme%3Dradical" alt="Salehammar's GitHub stats" />
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dsalehammar%26theme%3Dradical" alt="GitHub Streak" />
-</p>
-
 📫 Let's Connect!
 Feel free to reach out to me for collaboration opportunities or if you'd like to talk about system design and software development.
 
