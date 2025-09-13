@@ -35,6 +35,12 @@ I am committed to continuous learning and staying at the forefront of new techno
 🚀 Entrepreneurial Experience
 As a founder of 3 startups, I have extensive experience in building products from the ground up, managing multiple tasks, and leading projects from ideation to production.
 
+Pazardy: An e-commerce platform.
+
+Mrde: Mobile applications for venues, available on Android and iOS.
+
+Lmmlo: A community platform for buying and selling.
+
 📦 Open Source Contributions
 I believe in contributing to the developer community. Here are some of my published npm packages:
 
@@ -44,9 +50,15 @@ react-meta-framework
 
 git-branch-env
 
+📈 GitHub Stats
+<p align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dsalehammar%26show_icons%3Dtrue%26theme%3Dradical" alt="Salehammar's GitHub stats" />
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dsalehammar%26theme%3Dradical" alt="GitHub Streak" />
+</p>
+
 📫 Let's Connect!
 Feel free to reach out to me for collaboration opportunities or if you'd like to talk about system design and software development.
 
-Website: salehammar.com
+🌐 Website: salehammar.com
 
-Email: hi@salehammar.com
+📧 Email: hi@salehammar.com
